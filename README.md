@@ -11,11 +11,14 @@
 
 <a href="/README.md#python-machine-learning"><img src="https://img.shields.io/badge/Python-0a75ad?style=flat-square&logo=python&logoColor=white"/></a>
 <a href="/README.md#apache-kafka"><img src="https://img.shields.io/badge/Apache Kafka-0e2f44?style=flat-square&logo=apache kafka&logoColor=white"/></a>
-<a href="/README.md#django"><img src="https://img.shields.io/badge/Django-3399ff?style=flat-square&logo=django&logoColor=white"/></a>
-<a href="/README.md#hadoop--spark"><img src="https://img.shields.io/badge/Apache Hadoop-ffd966?style=flat-square&logo=apache hadoop&logoColor=black"/></a><br>
+<a href="/README.md#Kubernetes"><img src="https://img.shields.io/badge/Kubernetes-5580cc?style=flat-square&logo=kubernetes&logoColor=white"/></a>
+<a href="/README.md#Docker"><img src="https://img.shields.io/badge/Docker-2d89e5?style=flat-square&logo=Docker&logoColor=white"/></a>
+<a href="/README.md#django"><img src="https://img.shields.io/badge/Django-2c6145?style=flat-square&logo=django&logoColor=white"/></a>
+<a href="/README.md#hadoop--spark"><img src="https://img.shields.io/badge/Apache Hadoop-ffd966?style=flat-square&logo=apache hadoop&logoColor=black"/></a>
 <a href="/README.md#hadoop--spark"><img src="https://img.shields.io/badge/Apache Spark-ff7200?style=flat-square&logo=apache spark&logoColor=white"/></a>
 <a href="/README.md#elasticsearch--kibana--logstash"><img src="https://img.shields.io/badge/Elastic search-0762d7?style=flat-square&logo=Elasticsearch&logoColor=white"/></a>
 <a href="/README.md#elasticsearch--kibana--logstash"><img src="https://img.shields.io/badge/Logstash-50d299?style=flat-square&logo=logstash&logoColor=white"/></a>
+
  
 <!--
 **kyeahi/kyeahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
