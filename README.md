@@ -16,8 +16,6 @@
 <a href="/README.md#django"><img src="https://img.shields.io/badge/Django-2c6145?style=flat-square&logo=django&logoColor=white"/></a>
 <a href="/README.md#hadoop--spark"><img src="https://img.shields.io/badge/Apache Hadoop-ffd966?style=flat-square&logo=apache hadoop&logoColor=black"/></a>
 <a href="/README.md#hadoop--spark"><img src="https://img.shields.io/badge/Apache Spark-ff7200?style=flat-square&logo=apache spark&logoColor=white"/></a>
-<a href="/README.md#elasticsearch--kibana--logstash"><img src="https://img.shields.io/badge/Elastic search-0762d7?style=flat-square&logo=Elasticsearch&logoColor=white"/></a>
-<a href="/README.md#elasticsearch--kibana--logstash"><img src="https://img.shields.io/badge/Logstash-50d299?style=flat-square&logo=logstash&logoColor=white"/></a>
 
  
 <!--
