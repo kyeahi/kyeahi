@@ -1,12 +1,5 @@
-<h1 align="center">🐣 Yebin Kim 🐣</h1>
+<h1 align="center">👩🏻‍💻 Data Enginner / 🐣 Yebin Kim 🐣</h1>
 
-## 👩🏻‍💻 Data Enginner
-> *행동력있는 개발자 <br>*
-
-> *협업하는 개발자 <br>*
-
-> *끊임없이 배우는 개발자* <br>
-   
 ## 🛠 Tech 
 
 <a href="/README.md#python-machine-learning"><img src="https://img.shields.io/badge/Python-0a75ad?style=flat-square&logo=python&logoColor=white"/></a>
